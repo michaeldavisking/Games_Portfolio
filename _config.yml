@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "portfolio_image.jpg"
   name             : "Michael Davis-King" 
   location         : "United States"
   employer         : "Virginia Tech"
