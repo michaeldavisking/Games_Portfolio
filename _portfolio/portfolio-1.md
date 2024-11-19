@@ -1,6 +1,6 @@
 ---
 title: "Particles VR"
-excerpt: "A Virtual Reality installation using Unreal Engine 5 particles.<br/><img src='./images/500x300.png'>"
+excerpt: "A Virtual Reality installation using Unreal Engine 5 particles.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
