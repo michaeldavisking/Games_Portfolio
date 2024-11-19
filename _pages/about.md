@@ -31,7 +31,3 @@ Reaper Audio
 
 OptiTrack Motive
 
-[pic]
-
-The Boids, dressed as paper airplanes, were able to change color and avoid the outer walls of a sphere game object in Unity. Their interactions with each other and the enclosure was interesting to me, but the lack of Guest input made me change direction to something more easily influenced.
-
