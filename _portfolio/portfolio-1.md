@@ -7,7 +7,7 @@ collection: portfolio
 Particles is a interactive Virtual Reality expreince where the guest is able to push around small orbs using their hands.
 
 <video width="320" height="240" controls loop="" muted = "" autoplay="">
-  <source src=/images/Particles_Portfolio.mov>
+  <source src="https://github.com/michaeldavisking/Games_Portfolio/blob/32e337a2989f99bdddad2e6a2feb8ade6190a086/images/Particles_Portfolio.mov">
 </video>
 
 This project was displayed in the 2024 pop-up exhibition at Bird Block Gallery and Ceramics Studio “Bird Bonk”. It was made to be a simple interaction so that all ages and experience levels would be able to put on the headset and understand what to do.
