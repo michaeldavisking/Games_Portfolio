@@ -18,9 +18,15 @@ I am a beliver that game development can be done by anyone if they put in the wo
 Skills
 ======
 I have working knowlage in the following softwear:
+
 Unity
+
 Unreal
+
 Blender
+
 Maya
+
 Reaper Audio
+
 OptiTrack Motive
