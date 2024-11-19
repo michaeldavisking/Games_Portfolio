@@ -1,9 +1,3 @@
----
-title: "Particles VR"
-excerpt: "A Virtual Reality installation using Unreal Engine 5 particles.<br/><img src='../images/par1.png'>"
-collection: portfolio
----
-
 Particles is a interactive Virtual Reality expreince where the guest is able to push around small orbs using their hands.
 
 <video width="320" height="240" controls loop="" muted = "" autoplay="">
