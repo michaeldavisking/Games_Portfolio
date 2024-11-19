@@ -11,8 +11,7 @@ Particles is a interactive Virtual Reality expreince where the guest is able to 
 </video>
 
 This project was displayed in the 2024 pop-up exhibition at Bird Block Gallery and Ceramics Studio “Bird Bonk”. It was made to be a simple interaction so that all ages and experience levels would be able to put on the headset and understand what to do.
-
-(https://github.com/michaeldavisking/Games_Portfolio/blob/master/images/Scratch_Module_Pic.png)
+[](https://github.com/michaeldavisking/Games_Portfolio/blob/master/images/Scratch_Module_Pic.png)
 
 
 Particles use a Niagara Particle that is bound to a spline path by several simulated physics forces. All the forces are adjustable and can affect the form the particle stream takes as each of the 15000 particles make their way around the spline.
